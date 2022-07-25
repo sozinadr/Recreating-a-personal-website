@@ -30,7 +30,7 @@ nav {
 }
 
 span {
-    color: #f9004d;
+    color: #a5c9ca;
 }
 
 nav ul li {
@@ -47,12 +47,12 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f9004d;
+    color: #a5c9ca;
     transition: 0.4s;
 }
 
 .btn {
-    background-color: #f9004d;
+    background-color: #a5c9ca;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -86,7 +86,7 @@ h3 {
 }
 
 h4 {
-    color: #fcfc;
+    color: #e7f6f2;
     letter-spacing: 2px;
     font-size: 20px;
 }
@@ -101,7 +101,7 @@ h4 {
     display: inline-block;
     width: 100%;
     padding: 14px 130px 14px 15px;
-    border: 2px solid #f9004d;
+    border: 2px solid #a5c9ca;
     outline: none;
     border-radius: 30px;
 }
@@ -113,7 +113,7 @@ h4 {
     border: none;
     padding: 10px 30px;
     border-radius: 30px;
-    background-color: #f9004d;
+    background-color: #a5c9ca;
     color: white;
     box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
     top: 6px;
@@ -123,7 +123,7 @@ h4 {
 .about {
     width: 100%;
     padding: 100px 0px;
-    background-color: #191919;
+    background-color: #2c3333;
 }
 
 .about img {
@@ -160,7 +160,7 @@ h4 {
 }
 
 .about-text p {
-    color: #fcfc;
+    color: #e7f6f2;
     letter-spacing: 1px;
     line-height: 28px;
     font-size: 18px;
@@ -168,7 +168,7 @@ h4 {
 }
 
 button {
-    background-color: #f9004d;
+    background-color: #a5c9ca;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -180,7 +180,7 @@ button {
 
 button:hover {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid #a5c9ca;
     cursor: pointer;
 }
 
@@ -222,7 +222,7 @@ button:hover {
     display: block;
     text-align: center;
     margin: 25px 0px;
-    color: #f9004d;
+    color: #e7f6f2;
 }
 
 h5 {
@@ -232,14 +232,14 @@ h5 {
 }
 
 .pra p {
-    color: #fcfc;
+    color: #e7f6f2;
     font-size: 16px;
     line-height: 27px;
     margin-bottom: 25px;
 }
 
 .card .button {
-    background-color: #f9004d;
+    background-color: #a5c9ca;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -251,7 +251,7 @@ h5 {
 
 .card .button:hover {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid #a5c9ca;
     cursor: pointer;
 }
 
@@ -273,7 +273,7 @@ h5 {
 }
 
 .contact-me .button-two {
-    background-color: #f9004d;
+    background-color: #a5c9ca;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -285,7 +285,7 @@ h5 {
 
 .contact-me .button-two:hover {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid #a5c9ca;
     cursor: pointer;
 }
 
@@ -325,7 +325,7 @@ footer p:nth-child(2) {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #f9004d;
+    background: #a5c9ca;
     border-radius: 50%;
     margin: 22px 10px;
     color: white;
@@ -340,7 +340,7 @@ footer p:nth-child(2) {
 
 .end {
     position: absolute;
-    color: #f9004d;
+    color: #a5c9ca;
     bottom: 35px;
     font-size: 14px;
 }
